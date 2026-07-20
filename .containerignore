@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+venv
+.env
+*.log
+tests
+docs
+swarm
+k8s
